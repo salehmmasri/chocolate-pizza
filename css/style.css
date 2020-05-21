@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Fjalla+One&family=Source+Serif+Pro&display=swap');body{
+   margin: 0;
+   width: 70%;
+   /* //text-align:; */
+   margin-left: auto;
+   margin-right: auto;
+   font-family: 'Fjalla One', sans-serif;
+ 
+
+}
+header{
+    font-family: 'Dancing Script', cursive;
+}
+header img {
+    float: left;
+    display: inline;
+}
+header h1{
+    display: inline;
+}
+#hedIcons{
+    float: right;
+    padding: 15px;
+}
+hr{
+    margin-top: 40px;
+    border:7px solid lightgrey ;   
+    
+}
+h3{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 30px;
+}
+#chocoPizza img{
+    width: 100%;
+    height: 25%;
+
+}
+#para{
+    font-size: 18px;
+    font-family: 'Source Serif Pro', serif;
+
+}
+#checkbox{
+    margin-top: 50px;
+    background-image: url(../img/list-bg.png);
+    padding: 50px;
+    line-height: 27px;
+
+}
+
+.check1{
+    font-size: 25px;
+}
+.check1{
+    
+}
+#cs{
+
+}
+.checBox{
+    font-size: 25px;
+    float: right;
+}
+#last{
+    margin-top: 50px;
+
+}
+#val{
+    background-color: brown;
+    height: 36px;
+    margin: inherit;
+    width: 150px;
+
+}
+#last input{
+    text-align: center;
+}
+#vName{
+    font-size: 20px;
+}
+#last img{
+    float: left;
+}
+#para2{
+    margin-left: 15px;
+    float: left;
+}
+
+background-color: brown;
+
